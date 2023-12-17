@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.*;
 import ru.practicum.user.dto.UserCreateDto;
 import ru.practicum.user.dto.UserDto;
 import ru.practicum.user.dto.UserMapper;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 import ru.practicum.user.dto.UserUpdateDto;
 
 import javax.validation.Valid;

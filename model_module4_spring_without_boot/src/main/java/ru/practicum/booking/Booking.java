@@ -14,5 +14,4 @@ public class Booking {
     private Item item;
     private User booker;
     private String status;
-
 }

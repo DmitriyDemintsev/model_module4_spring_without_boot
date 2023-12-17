@@ -69,5 +69,4 @@ public class ItemServiceImpl implements ItemService {
     public List<Item> getItemsBySearch(String query) {
         return itemRepository.getItemsBySearch(query);
     }
-
 }

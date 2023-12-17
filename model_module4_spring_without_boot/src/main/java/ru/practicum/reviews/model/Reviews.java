@@ -10,7 +10,6 @@ import javax.validation.constraints.NotNull;
 @AllArgsConstructor
 @SuperBuilder
 public class Reviews {
-
     private Long reviewId;
     @NotNull
     private String content;

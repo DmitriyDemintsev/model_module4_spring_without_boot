@@ -2,10 +2,8 @@ package ru.practicum.item.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import ru.practicum.user.model.User;
 
 import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
 
 @Data
 @AllArgsConstructor

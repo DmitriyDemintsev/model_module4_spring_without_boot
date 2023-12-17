@@ -33,7 +33,8 @@ public class UserRepositoryImpl implements UserRepository {
     public User createUser(User user) {
         for (User userCheck : users.values()) {
             if (user.getEmail().equals(userCheck.getEmail())) {
-                throw new UserAlreadyExistException("Пользователь с таким email " + user.getEmail() + " уже существует");
+                throw new UserAlreadyExistException("Пользователь с таким email " + user.getEmail() +
+                        " уже существует");
             }
         }
         user.setId(generateIdForUser());
@@ -52,7 +53,8 @@ public class UserRepositoryImpl implements UserRepository {
     public User updateUser(User user) {
         for (User userCheck : users.values()) {
             if (user.getEmail().equals(userCheck.getEmail()) && user.getId() != userCheck.getId()) {
-                throw new UserAlreadyExistException("Указанная электронная почта " + user.getEmail() + " принадлежит другому пользовтелю");
+                throw new UserAlreadyExistException("Указанная электронная почта " + user.getEmail() +
+                        " принадлежит другому пользователю");
             }
         }
         if (users.containsKey(user.getId())) {

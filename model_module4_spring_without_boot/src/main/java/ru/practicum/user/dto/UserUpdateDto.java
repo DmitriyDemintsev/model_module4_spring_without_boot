@@ -13,5 +13,4 @@ public class UserUpdateDto {
     @Email(message = "некорректный email")
     private String email;
     private String name;
-
 }
