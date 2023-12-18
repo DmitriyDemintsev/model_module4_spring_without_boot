@@ -5,57 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2024ff1f-3a8a-4cf1-acc9-d121dcfe6a0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/service/PostService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/LaterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/booking/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/booking/BookingStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/booking/dto/BookingDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/exception/InvalidEmailException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/exception/UserAlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/exception/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/exception/ValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/ItemRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/ItemServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/dto/ItemDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/dto/ItemListMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/dto/ItemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/item/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/request/ItemRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/request/dto/ItemRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/reviews/model/Reviews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/dto/UserListMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/dto/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/java/ru/practicum/user/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../model_module4_spring_without_boot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/LaterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/user/FakeUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/user/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module4_spring_without_boot/src/main/java/ru/practicum/user/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-filmorate/src/main/java/ru/yandex/practicum/filmorate/model/Reviews.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-filmorate/src/main/java/ru/yandex/practicum/filmorate/model/Reviews.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
